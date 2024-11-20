@@ -11,8 +11,8 @@ This Movie Recommendation System is designed to provide you with personalized mo
 [Check it out here](https://colab.research.google.com/drive/1PdIBspGd8aSV4-8Y9Q2xJY8vGY9f2c-Z)!🚀🌐
 
 ## 🚀 Features
- **Data Analysis**: Perform exploratory data analysis (EDA) on the movie dataset to gain insights and understand the data.
- **Model Training**: Train machine learning model using preprocessed data to provide movie recommendations
+- **Data Analysis**: Perform exploratory data analysis (EDA) on the movie dataset to gain insights and understand the data.
+- **Model Training**: Train machine learning model using preprocessed data to provide movie recommendations
 
 ## Development
 The system was developed using Python, leveraging popular libraries like Pandas, Numpy, and Matplotlib. It's a fun project to explore machine learning in the world of cinema. 💻🤖🎞️
